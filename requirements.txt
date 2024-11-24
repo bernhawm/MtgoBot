@@ -8,3 +8,4 @@ pandas
 loguru
 pytest
 schedule
+python-dotenv

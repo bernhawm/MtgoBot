@@ -1,0 +1,85 @@
+2024-11-24 17:37:16.875 | INFO     | __main__:<module>:56 - Starting login bot...
+2024-11-24 17:37:17.579 | INFO     | __main__:type_into_field:50 - Entered text into field located at login_images\username_field.png
+2024-11-24 17:37:17.579 | INFO     | __main__:<module>:61 - Username entered successfully.
+2024-11-24 17:37:18.997 | INFO     | __main__:type_into_field:50 - Entered text into field located at login_images\password_field.png
+2024-11-24 17:37:18.997 | INFO     | __main__:<module>:72 - Password entered successfully.
+2024-11-24 17:37:19.187 | INFO     | __main__:click_on_image:39 - Clicked on login_images\login_button.png
+2024-11-24 17:37:19.188 | INFO     | __main__:<module>:82 - Login button clicked successfully.
+2024-11-24 17:37:19.188 | INFO     | __main__:<module>:87 - Login process completed.
+2024-11-24 17:37:36.337 | INFO     | __main__:<module>:56 - Starting login bot...
+2024-11-24 17:37:37.049 | INFO     | __main__:type_into_field:50 - Entered text into field located at login_images\username_field.png
+2024-11-24 17:37:37.049 | INFO     | __main__:<module>:61 - Username entered successfully.
+2024-11-24 17:37:38.448 | INFO     | __main__:type_into_field:50 - Entered text into field located at login_images\password_field.png
+2024-11-24 17:37:38.448 | INFO     | __main__:<module>:72 - Password entered successfully.
+2024-11-24 17:37:38.637 | INFO     | __main__:click_on_image:39 - Clicked on login_images\login_button.png
+2024-11-24 17:37:38.637 | INFO     | __main__:<module>:82 - Login button clicked successfully.
+2024-11-24 17:37:38.638 | INFO     | __main__:<module>:87 - Login process completed.
+2024-11-24 17:39:53.969 | INFO     | __main__:<module>:56 - Starting login bot...
+2024-11-24 17:39:54.690 | INFO     | __main__:type_into_field:50 - Entered text into field located at login_images\username_field.png
+2024-11-24 17:39:54.690 | INFO     | __main__:<module>:61 - Username entered successfully.
+2024-11-24 17:39:56.112 | INFO     | __main__:type_into_field:50 - Entered text into field located at login_images\password_field.png
+2024-11-24 17:39:56.112 | INFO     | __main__:<module>:73 - Password entered successfully.
+2024-11-24 17:39:56.304 | INFO     | __main__:click_on_image:39 - Clicked on login_images\login_button.png
+2024-11-24 17:39:56.304 | INFO     | __main__:<module>:83 - Login button clicked successfully.
+2024-11-24 17:39:56.304 | INFO     | __main__:<module>:88 - Login process completed.
+2024-11-24 17:40:54.820 | INFO     | __main__:<module>:56 - Starting login bot...
+2024-11-24 17:40:55.541 | INFO     | __main__:type_into_field:50 - Entered text into field located at login_images\username_field.png
+2024-11-24 17:40:55.541 | INFO     | __main__:<module>:61 - Username entered successfully.
+2024-11-24 17:40:56.945 | INFO     | __main__:type_into_field:50 - Entered text into field located at login_images\password_field.png
+2024-11-24 17:40:56.945 | INFO     | __main__:<module>:73 - Password entered successfully.
+2024-11-24 17:40:57.136 | INFO     | __main__:click_on_image:39 - Clicked on login_images\login_button.png
+2024-11-24 17:40:57.136 | INFO     | __main__:<module>:83 - Login button clicked successfully.
+2024-11-24 17:40:57.136 | INFO     | __main__:<module>:88 - Login process completed.
+2024-11-24 17:41:40.463 | INFO     | __main__:<module>:56 - Starting login bot...
+2024-11-24 17:41:41.174 | INFO     | __main__:type_into_field:50 - Entered text into field located at login_images\username_field.png
+2024-11-24 17:41:41.175 | INFO     | __main__:<module>:61 - Username entered successfully.
+2024-11-24 17:41:42.595 | INFO     | __main__:type_into_field:50 - Entered text into field located at login_images\password_field.png
+2024-11-24 17:41:42.595 | INFO     | __main__:<module>:73 - Password entered successfully.
+2024-11-24 17:41:42.787 | INFO     | __main__:click_on_image:39 - Clicked on login_images\login_button.png
+2024-11-24 17:41:42.787 | INFO     | __main__:<module>:83 - Login button clicked successfully.
+2024-11-24 17:41:42.787 | INFO     | __main__:<module>:88 - Login process completed.
+2024-11-24 18:01:07.735 | INFO     | __main__:<module>:57 - Starting login bot...
+2024-11-24 18:01:08.949 | INFO     | __main__:type_into_field:51 - Entered text into field located at login_images\username_field.png
+2024-11-24 18:01:08.949 | INFO     | __main__:<module>:62 - Username entered successfully.
+2024-11-24 18:01:10.856 | INFO     | __main__:type_into_field:51 - Entered text into field located at login_images\password_field.png
+2024-11-24 18:01:10.856 | INFO     | __main__:<module>:73 - Password entered successfully.
+2024-11-24 18:01:11.030 | INFO     | __main__:click_on_image:39 - Clicked on login_images\login_button.png
+2024-11-24 18:01:11.031 | INFO     | __main__:<module>:83 - Login button clicked successfully.
+2024-11-24 18:01:11.031 | INFO     | __main__:<module>:88 - Login process completed.
+2024-11-24 18:01:50.917 | INFO     | __main__:<module>:57 - Starting login bot...
+2024-11-24 18:01:52.637 | INFO     | __main__:type_into_field:51 - Entered text into field located at login_images\username_field.png
+2024-11-24 18:01:52.637 | INFO     | __main__:<module>:62 - Username entered successfully.
+2024-11-24 18:01:54.537 | INFO     | __main__:type_into_field:51 - Entered text into field located at login_images\password_field.png
+2024-11-24 18:01:54.537 | INFO     | __main__:<module>:73 - Password entered successfully.
+2024-11-24 18:01:54.729 | INFO     | __main__:click_on_image:39 - Clicked on login_images\login_button.png
+2024-11-24 18:01:54.729 | INFO     | __main__:<module>:83 - Login button clicked successfully.
+2024-11-24 18:01:54.729 | INFO     | __main__:<module>:88 - Login process completed.
+2024-11-24 18:07:20.180 | INFO     | __main__:<module>:87 - Starting login bot...
+2024-11-24 18:07:25.384 | INFO     | __main__:<module>:87 - Starting login bot...
+2024-11-24 18:08:21.464 | INFO     | __main__:<module>:87 - Starting login bot...
+2024-11-24 18:09:12.121 | INFO     | __main__:<module>:87 - Starting login bot...
+2024-11-24 18:15:51.541 | INFO     | __main__:<module>:87 - Starting login bot...
+2024-11-24 18:15:51.637 | WARNING  | __main__:<module>:98 - First attempt failed: . Retrying with a different image...
+2024-11-24 18:15:51.879 | ERROR    | __main__:<module>:107 - Both attempts to enter the username failed: region argument must be a tuple of four ints. Exiting.
+2024-11-24 18:22:16.254 | INFO     | __main__:<module>:87 - Starting login bot...
+2024-11-24 18:22:16.350 | WARNING  | __main__:<module>:98 - First attempt failed: . Retrying with a different image...
+2024-11-24 18:22:16.569 | ERROR    | __main__:<module>:107 - Both attempts to enter the username failed: region argument must be a tuple of four ints. Exiting.
+2024-11-24 18:22:54.612 | INFO     | __main__:<module>:87 - Starting login bot...
+2024-11-24 18:22:54.703 | WARNING  | __main__:<module>:98 - First attempt failed: . Retrying with a different image...
+2024-11-24 18:22:54.942 | ERROR    | __main__:<module>:107 - Both attempts to enter the username failed: region argument must be a tuple of four ints. Exiting.
+2024-11-24 18:23:04.928 | INFO     | __main__:<module>:87 - Starting login bot...
+2024-11-24 18:23:05.018 | WARNING  | __main__:<module>:98 - First attempt failed: . Retrying with a different image...
+2024-11-24 18:23:05.242 | ERROR    | __main__:<module>:107 - Both attempts to enter the username failed: region argument must be a tuple of four ints. Exiting.
+2024-11-24 18:25:36.218 | INFO     | __main__:<module>:93 - Starting login bot...
+2024-11-24 18:25:36.315 | WARNING  | __main__:<module>:104 - First attempt failed: . Retrying with a different image...
+2024-11-24 18:25:36.538 | INFO     | __main__:type_into_field:79 - failed if_validate_existing
+2024-11-24 18:25:36.539 | ERROR    | __main__:<module>:113 - Both attempts to enter the username failed: Second attempt also failed.. Exiting.
+2024-11-24 18:27:05.378 | INFO     | __main__:<module>:93 - Starting login bot...
+2024-11-24 18:27:05.472 | WARNING  | __main__:<module>:104 - First attempt failed: . Retrying with a different image...
+2024-11-24 18:27:05.721 | INFO     | __main__:type_into_field:79 - failed if_validate_existing
+2024-11-24 18:27:05.722 | ERROR    | __main__:<module>:113 - Both attempts to enter the username failed: Second attempt also failed.. Exiting.
+2024-11-24 18:27:07.646 | INFO     | __main__:type_into_field:87 - Entered text into field located at login_images\password_field.png
+2024-11-24 18:27:07.646 | INFO     | __main__:<module>:122 - Password entered successfully.
+2024-11-24 18:27:07.838 | INFO     | __main__:click_on_image:40 - Clicked on login_images\login_button.png
+2024-11-24 18:27:07.838 | INFO     | __main__:<module>:132 - Login button clicked successfully.
+2024-11-24 18:27:07.838 | INFO     | __main__:<module>:137 - Login process completed.

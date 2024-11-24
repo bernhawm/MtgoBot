@@ -61,3 +61,180 @@ of Otherworldly Light 1 Saint 7
 2024-11-23 19:25:08.849 | INFO     | __main__:<module>:85 - Confirm button detected!
 2024-11-23 19:25:08.892 | INFO     | __main__:capture_region_around:35 - Captured region saved as confirm_screen.png
 2024-11-23 19:25:08.998 | INFO     | __main__:<module>:89 - Trade confirmed!
+2024-11-24 16:20:28.254 | INFO     | __main__:<module>:52 - Waiting for a trade offer...
+2024-11-24 16:20:28.372 | INFO     | __main__:<module>:55 - Trade button detected!
+2024-11-24 16:20:28.465 | INFO     | __main__:capture_region_around:35 - Captured region saved as trade_screen.png
+2024-11-24 16:20:29.468 | INFO     | __main__:<module>:65 - Reading the username of the trade offer...
+2024-11-24 16:20:29.626 | INFO     | __main__:<module>:77 - Trade offer from user: eae (Seromgine
+yer
+ing ea
+hel
+
+———t
+=
+2024-11-24 16:20:29.626 | INFO     | __main__:<module>:82 - Attempting to confirm the trade...
+2024-11-24 16:20:29.710 | INFO     | __main__:<module>:85 - Confirm button detected!
+2024-11-24 16:20:29.747 | INFO     | __main__:capture_region_around:35 - Captured region saved as confirm_screen.png
+2024-11-24 16:20:29.852 | INFO     | __main__:<module>:89 - Trade confirmed!
+2024-11-24 16:25:29.332 | INFO     | __main__:<module>:52 - Waiting for a trade offer...
+2024-11-24 16:25:29.435 | INFO     | __main__:<module>:55 - Trade button detected!
+2024-11-24 16:25:29.512 | INFO     | __main__:capture_region_around:35 - Captured region saved as trade_screen.png
+2024-11-24 16:25:29.733 | INFO     | __main__:<module>:82 - Attempting to confirm the trade...
+2024-11-24 16:25:29.824 | INFO     | __main__:<module>:85 - Confirm button detected!
+2024-11-24 16:25:29.865 | INFO     | __main__:capture_region_around:35 - Captured region saved as confirm_screen.png
+2024-11-24 16:25:29.983 | INFO     | __main__:<module>:89 - Trade confirmed!
+2024-11-24 16:25:46.786 | INFO     | __main__:<module>:52 - Waiting for a trade offer...
+2024-11-24 16:25:46.880 | INFO     | __main__:<module>:55 - Trade button detected!
+2024-11-24 16:25:46.950 | INFO     | __main__:capture_region_around:35 - Captured region saved as trade_screen.png
+2024-11-24 16:25:47.200 | INFO     | __main__:<module>:82 - Attempting to confirm the trade...
+2024-11-24 16:25:47.289 | INFO     | __main__:<module>:85 - Confirm button detected!
+2024-11-24 16:25:47.329 | INFO     | __main__:capture_region_around:35 - Captured region saved as confirm_screen.png
+2024-11-24 16:25:47.434 | INFO     | __main__:<module>:89 - Trade confirmed!
+2024-11-24 16:26:08.134 | INFO     | __main__:<module>:52 - Waiting for a trade offer...
+2024-11-24 16:26:08.236 | INFO     | __main__:<module>:55 - Trade button detected!
+2024-11-24 16:26:08.312 | INFO     | __main__:capture_region_around:35 - Captured region saved as trade_screen.png
+2024-11-24 16:26:08.533 | INFO     | __main__:<module>:82 - Attempting to confirm the trade...
+2024-11-24 16:26:08.623 | INFO     | __main__:<module>:85 - Confirm button detected!
+2024-11-24 16:26:08.662 | INFO     | __main__:capture_region_around:35 - Captured region saved as confirm_screen.png
+2024-11-24 16:26:08.766 | INFO     | __main__:<module>:89 - Trade confirmed!
+2024-11-24 16:26:59.459 | INFO     | __main__:<module>:52 - Waiting for a trade offer...
+2024-11-24 16:26:59.551 | INFO     | __main__:<module>:55 - Trade button detected!
+2024-11-24 16:26:59.615 | INFO     | __main__:capture_region_around:35 - Captured region saved as trade_screen.png
+2024-11-24 16:26:59.884 | INFO     | __main__:<module>:82 - Attempting to confirm the trade...
+2024-11-24 16:26:59.974 | INFO     | __main__:<module>:85 - Confirm button detected!
+2024-11-24 16:27:00.012 | INFO     | __main__:capture_region_around:35 - Captured region saved as confirm_screen.png
+2024-11-24 16:27:00.116 | INFO     | __main__:<module>:89 - Trade confirmed!
+2024-11-24 16:28:41.966 | INFO     | __main__:<module>:52 - Waiting for a trade offer...
+2024-11-24 16:30:46.086 | INFO     | __main__:<module>:54 - Waiting for a trade offer...
+2024-11-24 16:30:46.177 | INFO     | __main__:<module>:57 - Trade button detected!
+2024-11-24 16:30:46.238 | INFO     | __main__:capture_region_around:35 - Captured region saved as trade_screen.png
+2024-11-24 16:30:46.497 | INFO     | __main__:<module>:84 - Attempting to confirm the trade...
+2024-11-24 16:30:46.583 | INFO     | __main__:<module>:87 - Confirm button detected!
+2024-11-24 16:30:46.625 | INFO     | __main__:capture_region_around:35 - Captured region saved as confirm_screen.png
+2024-11-24 16:30:46.731 | INFO     | __main__:<module>:91 - Trade confirmed!
+2024-11-24 16:33:00.470 | INFO     | __main__:<module>:54 - Waiting for a trade offer...
+2024-11-24 16:33:00.557 | INFO     | __main__:<module>:57 - Trade button detected!
+2024-11-24 16:33:00.636 | INFO     | __main__:capture_region_around:35 - Captured region saved as trade_screen.png
+2024-11-24 16:33:00.747 | ERROR    | __main__:return_username:50 - extracted text has no to 
+2024-11-24 16:33:00.863 | INFO     | __main__:<module>:84 - Attempting to confirm the trade...
+2024-11-24 16:33:00.947 | INFO     | __main__:<module>:87 - Confirm button detected!
+2024-11-24 16:33:00.992 | INFO     | __main__:capture_region_around:35 - Captured region saved as confirm_screen.png
+2024-11-24 16:33:01.096 | INFO     | __main__:<module>:91 - Trade confirmed!
+2024-11-24 16:33:39.775 | INFO     | __main__:<module>:54 - Waiting for a trade offer...
+2024-11-24 16:33:39.858 | INFO     | __main__:<module>:57 - Trade button detected!
+2024-11-24 16:33:39.914 | INFO     | __main__:capture_region_around:35 - Captured region saved as trade_screen.png
+2024-11-24 16:33:40.164 | INFO     | __main__:<module>:84 - Attempting to confirm the trade...
+2024-11-24 16:33:40.251 | INFO     | __main__:<module>:87 - Confirm button detected!
+2024-11-24 16:33:40.293 | INFO     | __main__:capture_region_around:35 - Captured region saved as confirm_screen.png
+2024-11-24 16:33:40.413 | INFO     | __main__:<module>:91 - Trade confirmed!
+2024-11-24 16:35:20.673 | INFO     | __main__:<module>:54 - Waiting for a trade offer...
+2024-11-24 16:35:20.757 | INFO     | __main__:<module>:57 - Trade button detected!
+2024-11-24 16:35:20.817 | INFO     | __main__:capture_region_around:35 - Captured region saved as trade_screen.png
+2024-11-24 16:35:21.064 | INFO     | __main__:<module>:84 - Attempting to confirm the trade...
+2024-11-24 16:35:21.149 | INFO     | __main__:<module>:87 - Confirm button detected!
+2024-11-24 16:35:21.190 | INFO     | __main__:capture_region_around:35 - Captured region saved as confirm_screen.png
+2024-11-24 16:35:21.296 | INFO     | __main__:<module>:91 - Trade confirmed!
+2024-11-24 16:36:39.397 | INFO     | __main__:<module>:54 - Waiting for a trade offer...
+2024-11-24 16:36:39.492 | INFO     | __main__:<module>:57 - Trade button detected!
+2024-11-24 16:36:39.561 | INFO     | __main__:capture_region_around:35 - Captured region saved as trade_screen.png
+2024-11-24 16:36:39.814 | INFO     | __main__:<module>:84 - Attempting to confirm the trade...
+2024-11-24 16:36:39.898 | INFO     | __main__:<module>:87 - Confirm button detected!
+2024-11-24 16:36:39.940 | INFO     | __main__:capture_region_around:35 - Captured region saved as confirm_screen.png
+2024-11-24 16:36:40.045 | INFO     | __main__:<module>:91 - Trade confirmed!
+2024-11-24 16:37:40.312 | INFO     | __main__:<module>:54 - Waiting for a trade offer...
+2024-11-24 16:37:40.410 | INFO     | __main__:<module>:57 - Trade button detected!
+2024-11-24 16:37:40.479 | INFO     | __main__:capture_region_around:35 - Captured region saved as trade_screen.png
+2024-11-24 16:37:40.728 | INFO     | __main__:<module>:84 - Attempting to confirm the trade...
+2024-11-24 16:37:40.818 | INFO     | __main__:<module>:87 - Confirm button detected!
+2024-11-24 16:37:40.863 | INFO     | __main__:capture_region_around:35 - Captured region saved as confirm_screen.png
+2024-11-24 16:37:40.978 | INFO     | __main__:<module>:91 - Trade confirmed!
+2024-11-24 16:38:15.571 | INFO     | __main__:<module>:54 - Waiting for a trade offer...
+2024-11-24 16:38:23.207 | INFO     | __main__:<module>:54 - Waiting for a trade offer...
+2024-11-24 16:38:23.294 | INFO     | __main__:<module>:57 - Trade button detected!
+2024-11-24 16:38:23.362 | INFO     | __main__:capture_region_around:35 - Captured region saved as trade_screen.png
+2024-11-24 16:38:23.595 | INFO     | __main__:<module>:84 - Attempting to confirm the trade...
+2024-11-24 16:38:23.685 | INFO     | __main__:<module>:87 - Confirm button detected!
+2024-11-24 16:38:23.721 | INFO     | __main__:capture_region_around:35 - Captured region saved as confirm_screen.png
+2024-11-24 16:38:23.829 | INFO     | __main__:<module>:91 - Trade confirmed!
+2024-11-24 16:44:56.618 | INFO     | __main__:<module>:55 - Waiting for a trade offer...
+2024-11-24 16:44:56.725 | INFO     | __main__:<module>:58 - Trade button detected!
+2024-11-24 16:44:56.774 | INFO     | __main__:capture_region_around:36 - Captured region saved as trade_screen.png
+2024-11-24 16:44:56.873 | ERROR    | __main__:return_username:51 - extracted text has no to 
+2024-11-24 16:44:56.994 | INFO     | __main__:<module>:85 - Attempting to confirm the trade...
+2024-11-24 16:45:20.903 | INFO     | __main__:<module>:55 - Waiting for a trade offer...
+2024-11-24 16:45:20.992 | INFO     | __main__:<module>:58 - Trade button detected!
+2024-11-24 16:45:21.041 | INFO     | __main__:capture_region_around:36 - Captured region saved as trade_screen.png
+2024-11-24 16:45:21.137 | ERROR    | __main__:return_username:51 - extracted text has no to 
+2024-11-24 16:45:21.242 | INFO     | __main__:<module>:85 - Attempting to confirm the trade...
+2024-11-24 16:45:21.332 | INFO     | __main__:<module>:88 - Confirm button detected!
+2024-11-24 16:45:21.367 | INFO     | __main__:capture_region_around:36 - Captured region saved as confirm_screen.png
+2024-11-24 16:45:21.475 | INFO     | __main__:<module>:92 - Trade confirmed!
+2024-11-24 16:47:57.511 | INFO     | __main__:<module>:60 - Waiting for a trade offer...
+2024-11-24 16:47:57.598 | INFO     | __main__:<module>:63 - Trade button detected!
+2024-11-24 16:47:57.633 | INFO     | __main__:capture_region_around:36 - Captured region saved as trade_screen.png
+2024-11-24 16:47:57.725 | INFO     | __main__:return_username:45 - Extracted text: WADEB HAS SENT YOU A TRADE REQUEST.
+
+
+2024-11-24 16:47:57.841 | INFO     | __main__:<module>:90 - Attempting to confirm the trade...
+2024-11-24 16:47:57.922 | INFO     | __main__:<module>:93 - Confirm button detected!
+2024-11-24 16:47:57.961 | INFO     | __main__:capture_region_around:36 - Captured region saved as confirm_screen.png
+2024-11-24 16:47:58.074 | INFO     | __main__:<module>:97 - Trade confirmed!
+2024-11-24 16:49:15.872 | INFO     | __main__:<module>:62 - Waiting for a trade offer...
+2024-11-24 16:49:15.988 | INFO     | __main__:<module>:65 - Trade button detected!
+2024-11-24 16:49:16.040 | INFO     | __main__:capture_region_around:36 - Captured region saved as trade_screen.png
+2024-11-24 16:49:16.150 | INFO     | __main__:return_username:45 - Extracted text: GGG Pviestaiec. st,
+
+WADEB HAS SENT YOU A TRADE REQUEST.
+
+2024-11-24 16:49:16.151 | INFO     | __main__:return_username:52 - Username is: GGG Pviestaiec. st,
+
+WADEB
+2024-11-24 16:49:16.258 | INFO     | __main__:<module>:92 - Attempting to confirm the trade...
+2024-11-24 16:49:16.343 | INFO     | __main__:<module>:95 - Confirm button detected!
+2024-11-24 16:49:16.382 | INFO     | __main__:capture_region_around:36 - Captured region saved as confirm_screen.png
+2024-11-24 16:49:16.490 | INFO     | __main__:<module>:99 - Trade confirmed!
+2024-11-24 18:28:45.945 | INFO     | __main__:<module>:68 - Waiting for a trade offer...
+2024-11-24 18:30:10.113 | INFO     | __main__:<module>:68 - Waiting for a trade offer...
+2024-11-24 18:30:10.196 | INFO     | __main__:<module>:71 - Trade button detected!
+2024-11-24 18:30:10.231 | INFO     | __main__:capture_region_around:42 - Captured region saved as trade_screen.png
+2024-11-24 18:30:10.329 | INFO     | __main__:return_username:51 - Extracted text: WADEB HAS SENT YOU A TRADE REQUEST.
+
+
+2024-11-24 18:30:10.329 | INFO     | __main__:return_username:58 - Username is: WADEB
+2024-11-24 18:30:10.437 | INFO     | __main__:<module>:98 - Attempting to confirm the trade...
+2024-11-24 18:30:10.522 | INFO     | __main__:<module>:101 - Confirm button detected!
+2024-11-24 18:30:10.556 | INFO     | __main__:capture_region_around:42 - Captured region saved as confirm_screen.png
+2024-11-24 18:30:10.670 | INFO     | __main__:<module>:105 - Trade confirmed!
+2024-11-24 18:32:01.449 | INFO     | __main__:<module>:68 - Waiting for a trade offer...
+2024-11-24 18:32:01.565 | INFO     | __main__:<module>:71 - Trade button detected!
+2024-11-24 18:32:01.614 | INFO     | __main__:capture_region_around:42 - Captured region saved as trade_images/trade_screen.png
+2024-11-24 18:32:01.702 | INFO     | __main__:return_username:51 - Extracted text: WADEB HAS SENT YOU A TRADE REQUEST.
+
+
+2024-11-24 18:32:01.703 | INFO     | __main__:return_username:58 - Username is: WADEB
+2024-11-24 18:32:01.819 | INFO     | __main__:<module>:98 - Attempting to confirm the trade...
+2024-11-24 18:32:01.908 | INFO     | __main__:<module>:101 - Confirm button detected!
+2024-11-24 18:32:01.945 | INFO     | __main__:capture_region_around:42 - Captured region saved as confirm_screen.png
+2024-11-24 18:32:02.053 | INFO     | __main__:<module>:105 - Trade confirmed!
+2024-11-24 18:32:59.811 | INFO     | __main__:<module>:68 - Waiting for a trade offer...
+2024-11-24 18:32:59.900 | INFO     | __main__:<module>:71 - Trade button detected!
+2024-11-24 18:32:59.951 | INFO     | __main__:capture_region_around:42 - Captured region saved as trade_images/trade_screen.png
+2024-11-24 18:33:00.050 | INFO     | __main__:return_username:51 - Extracted text: WADEB HAS SENT YOU A TRADE REQUEST.
+
+
+2024-11-24 18:33:00.050 | INFO     | __main__:return_username:58 - Username is: WADEB
+2024-11-24 18:33:00.168 | INFO     | __main__:<module>:98 - Attempting to confirm the trade...
+2024-11-24 18:33:00.261 | INFO     | __main__:<module>:101 - Confirm button detected!
+2024-11-24 18:33:00.291 | INFO     | __main__:capture_region_around:42 - Captured region saved as trade_images/confirm_screen.png
+2024-11-24 18:33:00.403 | INFO     | __main__:<module>:105 - Trade confirmed!
+2024-11-24 18:34:09.000 | INFO     | __main__:<module>:68 - Waiting for a trade offer...
+2024-11-24 18:34:09.094 | INFO     | __main__:<module>:71 - Trade button detected!
+2024-11-24 18:34:09.130 | INFO     | __main__:capture_region_around:42 - Captured region saved as trade_images/trade_screen.png
+2024-11-24 18:34:09.228 | INFO     | __main__:return_username:51 - Extracted text: WADEB HAS SENT YOU A TRADE REQUEST.
+
+
+2024-11-24 18:34:09.228 | INFO     | __main__:return_username:58 - Username is: WADEB
+2024-11-24 18:34:09.336 | INFO     | __main__:<module>:98 - Attempting to confirm the trade...
+2024-11-24 18:34:09.414 | INFO     | __main__:<module>:101 - Confirm button detected!
+2024-11-24 18:34:09.456 | INFO     | __main__:capture_region_around:42 - Captured region saved as trade_images/confirm_screen.png
+2024-11-24 18:34:09.568 | INFO     | __main__:<module>:105 - Trade confirmed!
