@@ -1,0 +1,10 @@
+pyautogui
+pynput
+opencv-python
+pillow
+pytesseract
+requests
+pandas
+loguru
+pytest
+schedule
