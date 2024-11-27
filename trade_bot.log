@@ -238,3 +238,61 @@ WADEB
 2024-11-24 18:34:09.414 | INFO     | __main__:<module>:101 - Confirm button detected!
 2024-11-24 18:34:09.456 | INFO     | __main__:capture_region_around:42 - Captured region saved as trade_images/confirm_screen.png
 2024-11-24 18:34:09.568 | INFO     | __main__:<module>:105 - Trade confirmed!
+2024-11-26 18:06:06.361 | INFO     | __main__:<module>:68 - Waiting for a trade offer...
+2024-11-26 18:06:06.467 | INFO     | __main__:<module>:71 - Trade button detected!
+2024-11-26 18:06:06.531 | INFO     | __main__:capture_region_around:42 - Captured region saved as trade_images/trade_screen.png
+2024-11-26 18:06:07.626 | INFO     | __main__:return_username:51 - Extracted text: WADEB HAS SENT YOU A TRADE REQUEST.
+
+
+2024-11-26 18:06:07.627 | INFO     | __main__:return_username:58 - Username is: WADEB
+2024-11-26 18:06:07.746 | INFO     | __main__:<module>:98 - Attempting to confirm the trade...
+2024-11-26 18:06:07.838 | INFO     | __main__:<module>:101 - Confirm button detected!
+2024-11-26 18:06:07.873 | INFO     | __main__:capture_region_around:42 - Captured region saved as trade_images/confirm_screen.png
+2024-11-26 18:06:07.980 | INFO     | __main__:<module>:105 - Trade confirmed!
+2024-11-26 18:30:20.093 | INFO     | __main__:<module>:68 - Waiting for a trade offer...
+2024-11-26 18:30:20.186 | INFO     | __main__:<module>:71 - Trade button detected!
+2024-11-26 18:30:20.236 | INFO     | __main__:capture_region_around:42 - Captured region saved as trade_images/trade_screen.png
+2024-11-26 18:30:20.330 | INFO     | __main__:return_username:51 - Extracted text: WADEB HAS SENT YOU A TRADE REQUEST.
+
+
+2024-11-26 18:30:20.331 | INFO     | __main__:return_username:58 - Username is: WADEB
+2024-11-26 18:30:20.434 | INFO     | __main__:<module>:98 - Attempting to confirm the trade...
+2024-11-26 18:30:20.522 | INFO     | __main__:<module>:101 - Confirm button detected!
+2024-11-26 18:30:20.562 | INFO     | __main__:capture_region_around:42 - Captured region saved as trade_images/confirm_screen.png
+2024-11-26 18:30:20.670 | INFO     | __main__:<module>:105 - Trade confirmed!
+2024-11-26 18:37:27.333 | INFO     | __main__:<module>:47 - Selecting Quantity Button
+2024-11-26 18:37:49.109 | INFO     | __main__:<module>:47 - Selecting Quantity Button
+2024-11-26 18:37:49.190 | INFO     | __main__:<module>:50 - Trade button detected!
+2024-11-26 18:37:58.760 | INFO     | __main__:<module>:47 - Selecting Quantity Button
+2024-11-26 18:37:58.841 | INFO     | __main__:<module>:50 - Trade button detected!
+2024-11-26 18:42:50.223 | INFO     | __main__:<module>:47 - Selecting Quantity Button
+2024-11-26 18:42:50.310 | INFO     | __main__:<module>:50 - Quantity button detected!
+2024-11-26 18:42:50.415 | INFO     | __main__:<module>:54 - Selecting wishlist choice!
+2024-11-26 18:42:58.610 | INFO     | __main__:<module>:47 - Selecting Quantity Button
+2024-11-26 18:42:58.687 | INFO     | __main__:<module>:50 - Quantity button detected!
+2024-11-26 18:42:58.798 | INFO     | __main__:<module>:54 - Selecting wishlist choice!
+2024-11-26 18:43:42.089 | INFO     | __main__:<module>:47 - Selecting Quantity Button
+2024-11-26 18:43:42.164 | INFO     | __main__:<module>:50 - Quantity button detected!
+2024-11-26 18:43:42.282 | INFO     | __main__:<module>:54 - Selecting wishlist choice!
+2024-11-26 18:43:46.242 | INFO     | __main__:<module>:47 - Selecting Quantity Button
+2024-11-26 18:43:46.320 | INFO     | __main__:<module>:50 - Quantity button detected!
+2024-11-26 18:43:46.431 | INFO     | __main__:<module>:54 - Selecting wishlist choice!
+2024-11-26 18:43:54.171 | INFO     | __main__:<module>:47 - Selecting Quantity Button
+2024-11-26 18:43:54.253 | INFO     | __main__:<module>:50 - Quantity button detected!
+2024-11-26 18:43:54.358 | INFO     | __main__:<module>:54 - Selecting wishlist choice!
+2024-11-26 18:43:58.599 | INFO     | __main__:<module>:47 - Selecting Quantity Button
+2024-11-26 18:43:58.685 | INFO     | __main__:<module>:50 - Quantity button detected!
+2024-11-26 18:43:58.797 | INFO     | __main__:<module>:54 - Selecting wishlist choice!
+2024-11-26 18:44:04.255 | INFO     | __main__:<module>:47 - Selecting Quantity Button
+2024-11-26 18:44:04.336 | INFO     | __main__:<module>:50 - Quantity button detected!
+2024-11-26 18:44:04.450 | INFO     | __main__:<module>:54 - Selecting wishlist choice!
+2024-11-26 18:59:26.225 | INFO     | __main__:<module>:108 - Selecting Quantity Button
+2024-11-26 18:59:26.313 | INFO     | __main__:<module>:111 - Quantity button detected!
+2024-11-26 18:59:26.425 | INFO     | __main__:<module>:115 - Selecting wishlist choice!
+2024-11-26 18:59:37.163 | INFO     | __main__:<module>:108 - Selecting Quantity Button
+2024-11-26 18:59:37.248 | INFO     | __main__:<module>:111 - Quantity button detected!
+2024-11-26 18:59:37.358 | INFO     | __main__:<module>:115 - Selecting wishlist choice!
+2024-11-26 19:00:12.917 | INFO     | __main__:<module>:108 - Selecting Quantity Button
+2024-11-26 19:00:12.997 | INFO     | __main__:<module>:111 - Quantity button detected!
+2024-11-26 19:00:13.107 | INFO     | __main__:<module>:115 - Selecting wishlist choice!
+2024-11-26 19:00:13.402 | INFO     | __main__:extract_text_from_image:59 - Extracting text from image...

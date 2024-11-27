@@ -83,3 +83,20 @@
 2024-11-24 18:27:07.838 | INFO     | __main__:click_on_image:40 - Clicked on login_images\login_button.png
 2024-11-24 18:27:07.838 | INFO     | __main__:<module>:132 - Login button clicked successfully.
 2024-11-24 18:27:07.838 | INFO     | __main__:<module>:137 - Login process completed.
+2024-11-26 18:00:53.419 | INFO     | __main__:<module>:93 - Starting login bot...
+2024-11-26 18:00:53.545 | WARNING  | __main__:<module>:104 - First attempt failed: . Retrying with a different image...
+2024-11-26 18:00:53.672 | ERROR    | __main__:<module>:113 - Both attempts to enter the username failed: . Exiting.
+2024-11-26 18:00:55.592 | INFO     | __main__:type_into_field:87 - Entered text into field located at login_images\password_field.png
+2024-11-26 18:00:55.592 | INFO     | __main__:<module>:122 - Password entered successfully.
+2024-11-26 18:01:03.998 | INFO     | __main__:<module>:93 - Starting login bot...
+2024-11-26 18:01:04.098 | WARNING  | __main__:<module>:104 - First attempt failed: . Retrying with a different image...
+2024-11-26 18:01:04.192 | ERROR    | __main__:<module>:113 - Both attempts to enter the username failed: . Exiting.
+2024-11-26 18:01:31.940 | INFO     | __main__:<module>:93 - Starting login bot...
+2024-11-26 18:01:32.033 | WARNING  | __main__:<module>:104 - First attempt failed: . Retrying with a different image...
+2024-11-26 18:01:32.287 | INFO     | __main__:type_into_field:79 - failed if_validate_existing
+2024-11-26 18:01:32.288 | ERROR    | __main__:<module>:113 - Both attempts to enter the username failed: Second attempt also failed.. Exiting.
+2024-11-26 18:01:34.206 | INFO     | __main__:type_into_field:87 - Entered text into field located at login_images\password_field.png
+2024-11-26 18:01:34.206 | INFO     | __main__:<module>:122 - Password entered successfully.
+2024-11-26 18:01:34.397 | INFO     | __main__:click_on_image:40 - Clicked on login_images\login_button.png
+2024-11-26 18:01:34.397 | INFO     | __main__:<module>:132 - Login button clicked successfully.
+2024-11-26 18:01:34.397 | INFO     | __main__:<module>:137 - Login process completed.
